@@ -1,0 +1,5 @@
+D:/someElseEngine/EngineForCGcourse-master-2/Game/CMakeFiles/Display.dir
+D:/someElseEngine/EngineForCGcourse-master-2/Game/CMakeFiles/Engine.dir
+D:/someElseEngine/EngineForCGcourse-master-2/Game/CMakeFiles/Game.dir
+D:/someElseEngine/EngineForCGcourse-master-2/Game/CMakeFiles/ALL_BUILD.dir
+D:/someElseEngine/EngineForCGcourse-master-2/Game/CMakeFiles/ZERO_CHECK.dir

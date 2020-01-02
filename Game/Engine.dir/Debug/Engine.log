@@ -1,0 +1,27 @@
+﻿  Building Custom Rule D:/someElseEngine/EngineForCGcourse-master-2/CMakeLists.txt
+  Camera.cpp
+  IndexBuffer.cpp
+  Material.cpp
+d:\someelseengine\engineforcgcourse-master-2\engine3d\Material.h(8): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\someelseengine\engineforcgcourse-master-2\engine3d\Material.h(8): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+D:\someElseEngine\EngineForCGcourse-master-2\Engine3D\Material.cpp(7): warning C4018: '<': signed/unsigned mismatch
+  Mesh.cpp
+  MeshConstructor.cpp
+  MovableGLM.cpp
+  VertexArray.cpp
+  VertexBuffer.cpp
+  obj_loader.cpp
+  scene.cpp
+d:\someelseengine\engineforcgcourse-master-2\engine3d\Material.h(8): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\someelseengine\engineforcgcourse-master-2\engine3d\Material.h(8): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+D:\someElseEngine\EngineForCGcourse-master-2\Engine3D\scene.cpp(111): warning C4018: '<': signed/unsigned mismatch
+D:\someElseEngine\EngineForCGcourse-master-2\Engine3D\scene.cpp(240): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-2\Engine3D\scene.cpp(241): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-2\Engine3D\scene.cpp(242): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-2\Engine3D\scene.cpp(243): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  shader.cpp
+  shape.cpp
+  texture.cpp
+  Generating Code...
+  stb_image.c
+  Engine.vcxproj -> D:\someElseEngine\EngineForCGcourse-master-2\Game\Debug\Engine.lib
