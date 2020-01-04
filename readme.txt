@@ -1,4 +1,4 @@
-#Ray tracing
+# Ray tracing
 
 Teodor Linnik
 
